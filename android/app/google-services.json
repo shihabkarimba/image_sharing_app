@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539510577123",
+    "project_id": "image-sharing-app-8663e",
+    "storage_bucket": "image-sharing-app-8663e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539510577123:android:340bf44f95bfc4b8e0f2d6",
+        "android_client_info": {
+          "package_name": "com.example.image_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539510577123-do632ab9vjimsdjgfj7c96cfffuuvodf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE52EgAsHsljqXMGobhu2xh8KdzRWRGpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539510577123-do632ab9vjimsdjgfj7c96cfffuuvodf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
